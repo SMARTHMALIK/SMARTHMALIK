@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Smarth Malik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width = "400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/e5b0ed40c9fd5a1601c3eab1820cd4a4e9dee27d0525275782aed3bde0d06265/68747470733a2f2f6d656469612e74656e6f722e636f6d2f326658626e36587474305541414141432f736f6674776172652d736f6674776172652d646576656c6f706d656e742e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarthmalik&label=Profile%20views&color=0e75b6&style=flat" alt="smarthmalik" /> </p>
 
