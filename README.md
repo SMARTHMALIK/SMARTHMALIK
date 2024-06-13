@@ -1,5 +1,12 @@
+[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif"
+)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Smarth Malik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarthmalik&label=Profile%20views&color=0e75b6&style=flat" alt="smarthmalik" /> </p>
 
